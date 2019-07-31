@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AeyeJenkins.iml" filepath="$PROJECT_DIR$/AeyeJenkins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jenkins-Test-App.iml" filepath="$PROJECT_DIR$/Jenkins-Test-App.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
